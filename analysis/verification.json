@@ -1,0 +1,8 @@
+{
+  "original_sha256": true,
+  "payload_sha256": true,
+  "payload_size_matches_msi": true,
+  "report_links_exist": true,
+  "msi_tables_exported": 17,
+  "go_functions_recovered": 6584
+}

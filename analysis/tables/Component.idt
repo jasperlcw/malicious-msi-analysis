@@ -1,0 +1,4 @@
+Component	ComponentId	Directory_	Attributes	Condition	KeyPath
+s72	S38	s72	i2	S255	S72
+Component	Component
+MainExeComponent	{25158FC6-18C2-42C9-9FCD-37B805299520}	INSTALLFOLDER	4		reg5991AF7FA3176CD121C1048367A2933C

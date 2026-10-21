@@ -1,0 +1,15 @@
+{
+  "controller_base64": "NzcuODEuMTM4LjEyMzo0NDM=",
+  "controller_decoded": "77.81.138.123:443",
+  "controller_global_va": "0x1406006c0",
+  "status_url": "https://77.81.138.123:4433/api/status",
+  "sample_sha256": "f2d2134c874c5679fbba89071c773a4e9e9aed3ba0975ceebd909b2938642384",
+  "payload_sha256": "f348956a781cd7dd6549666151cde02dce37d1779f0023dae27b4676409c5f2e",
+  "payload_bytes": 6616064,
+  "go_version": "go1.25.0",
+  "go_module": "demand/cmd/artifact/internal/client",
+  "go_dependencies": [
+    "github.com/coder/websocket v1.8.14",
+    "github.com/hashicorp/yamux v0.1.2"
+  ]
+}

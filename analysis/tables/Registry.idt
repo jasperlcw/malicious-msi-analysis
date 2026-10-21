@@ -1,0 +1,5 @@
+Registry	Root	Key	Name	Value	Component_
+s72	i2	l255	L255	L0	s72
+Registry	Registry
+reg5991AF7FA3176CD121C1048367A2933C	1	Software\demand llm company\support_v1.3	installed	#1	MainExeComponent
+regF58938956A881557013B414AC6A5563F	1	Software\Microsoft\Windows\CurrentVersion\Run	support_v1.3	"[INSTALLFOLDER]demand.exe"	MainExeComponent

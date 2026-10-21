@@ -1,0 +1,551 @@
+{
+  "main.main.Println.func1": [
+    "fmt.Appendln",
+    "runtime.morestack"
+  ],
+  "main.identify.deferwrap1": [
+    "runtime.morestack"
+  ],
+  "main.examine.Printf.func1": [
+    "fmt.Appendf",
+    "runtime.morestack"
+  ],
+  "main.__Proxy_.Read.deferwrap1": [
+    "internal/sync.(*Mutex).unlockSlow",
+    "runtime.morestack"
+  ],
+  "main.underscore": [
+    "os/exec.Command",
+    "runtime.newobject",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier4",
+    "os/exec.(*Cmd).Run",
+    "runtime.slicebytetostring",
+    "strings.genSplit",
+    "runtime.slicebytetostring",
+    "strings.TrimSpace",
+    "runtime.convTstring",
+    "fmt.Errorf",
+    "runtime.panicSliceB",
+    "internal/stringslite.Cut",
+    "strings.TrimSpace",
+    "strings.TrimSpace",
+    "fmt.Errorf",
+    "runtime.panicSliceB",
+    "runtime.morestack_noctxt"
+  ],
+  "main.main.Println.func5": [
+    "fmt.Appendln",
+    "runtime.morestack"
+  ],
+  "main.raise.deferwrap3": [
+    "github.com/hashicorp/yamux.(*Session).Close",
+    "runtime.morestack"
+  ],
+  "main.fortify": [
+    "main.underscore",
+    "fmt.Fprintln",
+    "runtime.concatstring2",
+    "runtime.concatstring3",
+    "runtime.concatstring2",
+    "main.counterbalance",
+    "runtime.concatstring3",
+    "runtime.concatstring2",
+    "main.infiltrate",
+    "runtime.concatstring3",
+    "runtime.concatstring2",
+    "runtime.morestack_noctxt"
+  ],
+  "demand_cmd_artifact_internal_noise.affirm": [],
+  "main.raise": [
+    "runtime.makemap_small",
+    "runtime.makemap_small",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier2",
+    "crypto/x509.(*CertPool).AppendCertsFromPEM",
+    "runtime.newobject",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier4",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier1",
+    "runtime.concatstring3",
+    "github.com/coder/websocket.dial",
+    "runtime.deferprocStack",
+    "github.com/coder/websocket.NetConn",
+    "runtime.deferprocStack",
+    "os.hostname",
+    "os.Getenv",
+    "os.Getenv",
+    "runtime.deferreturn",
+    "runtime.deferreturn",
+    "runtime.newobject",
+    "runtime.deferreturn",
+    "runtime.deferreturn",
+    "main.allocate",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier1",
+    "runtime.deferreturn",
+    "github.com/hashicorp/yamux.Client",
+    "runtime.deferprocStack",
+    "main.visualize",
+    "runtime.deferreturn",
+    "runtime.deferreturn",
+    "runtime.typeAssert",
+    "runtime.typeAssert",
+    "runtime.morestack_noctxt"
+  ],
+  "main.__Proxy_.Read": [
+    "internal/sync.(*Mutex).lockSlow",
+    "os.ReadFile",
+    "fmt.Errorf",
+    "runtime.convT64",
+    "fmt.Errorf",
+    "runtime.deferreturn",
+    "runtime.morestack_noctxt"
+  ],
+  "main.counterbalance": [
+    "os/exec.Command",
+    "runtime.newobject",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier4",
+    "os/exec.(*Cmd).Run",
+    "runtime.slicebytetostring",
+    "strings.TrimSpace",
+    "runtime.convTstring",
+    "fmt.Errorf",
+    "runtime.slicebytetostring",
+    "runtime.panicSliceB",
+    "runtime.panicSliceB",
+    "runtime.morestack_noctxt"
+  ],
+  "main.identify.Printf.func4": [
+    "fmt.Appendf",
+    "runtime.morestack"
+  ],
+  "main.identify.Printf.func5": [
+    "fmt.Appendf",
+    "runtime.morestack"
+  ],
+  "main.infiltrate": [
+    "net.(*Resolver).LookupHost",
+    "runtime.morestack_noctxt"
+  ],
+  "demand_cmd_artifact_internal_noise.progress": [],
+  "main.calculate.deferwrap1": [
+    "runtime.morestack"
+  ],
+  "main.study.deferwrap2": [
+    "runtime.morestack"
+  ],
+  "main.identify": [
+    "log.(*Logger).output",
+    "runtime.makechan",
+    "runtime.makechan",
+    "runtime.newobject",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier3",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier4",
+    "runtime.newproc",
+    "runtime.newproc",
+    "runtime.newobject",
+    "demand/cmd/artifact/internal/shared.ReadFrame",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier3",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier1",
+    "runtime.wbMove",
+    "errors.Is",
+    "errors.Is",
+    "log.(*Logger).output",
+    "sync.(*Once).doSlow",
+    "runtime.typeAssert",
+    "runtime.deferreturn",
+    "runtime.morestack_noctxt"
+  ],
+  "demand_cmd_artifact_internal_noise.clear": [],
+  "demand_cmd_artifact_internal_noise.encounter": [],
+  "main.identify.identify.func1.func6": [
+    "runtime.closechan",
+    "runtime.morestack"
+  ],
+  "main.identify.func1.1": [
+    "runtime.closechan",
+    "runtime.morestack"
+  ],
+  "main.identify.func2": [
+    "runtime.selectgo",
+    "runtime.convT",
+    "demand/cmd/artifact/internal/shared.WriteFrame",
+    "log.(*Logger).output",
+    "runtime.typeAssert",
+    "runtime.deferreturn",
+    "runtime.morestack"
+  ],
+  "demand_cmd_artifact_internal_noise.prepare": [],
+  "main.examine": [
+    "runtime.newobject",
+    "io.ReadAtLeast",
+    "log.(*Logger).output",
+    "main.identify",
+    "log.(*Logger).output",
+    "main.study",
+    "runtime.typeAssert",
+    "runtime.morestack_noctxt"
+  ],
+  "main.__Proxy_.init": [
+    "os.Stat",
+    "errors.Is",
+    "fmt.Errorf",
+    "main.(*Proxy).Write",
+    "fmt.Errorf",
+    "runtime.morestack_noctxt"
+  ],
+  "main.__Proxy_.Write": [
+    "internal/sync.(*Mutex).lockSlow",
+    "runtime.newobject",
+    "os.WriteFile",
+    "fmt.Errorf",
+    "runtime.deferreturn",
+    "runtime.morestack_noctxt"
+  ],
+  "demand_cmd_artifact_internal_noise.ruin": [],
+  "demand_cmd_artifact_internal_shared.abound": [
+    "runtime.newobject",
+    "runtime.panicSliceB",
+    "runtime.morestack_noctxt"
+  ],
+  "main.identify.func3": [
+    "main.rate",
+    "runtime.selectgo",
+    "runtime.morestack"
+  ],
+  "demand_cmd_artifact_internal_noise.shatter": [],
+  "main.raise.deferwrap2": [
+    "runtime.morestack"
+  ],
+  "demand_cmd_artifact_internal_noise.init.0": [
+    "time.Now",
+    "demand/cmd/artifact/internal/noise.progress",
+    "demand/cmd/artifact/internal/noise.bolt",
+    "demand/cmd/artifact/internal/noise.shatter",
+    "demand/cmd/artifact/internal/noise.prepare",
+    "demand/cmd/artifact/internal/noise.live",
+    "demand/cmd/artifact/internal/noise.inter",
+    "demand/cmd/artifact/internal/noise.encounter",
+    "demand/cmd/artifact/internal/noise.clear",
+    "demand/cmd/artifact/internal/noise.ruin",
+    "demand/cmd/artifact/internal/noise.certify",
+    "demand/cmd/artifact/internal/noise.stuff",
+    "demand/cmd/artifact/internal/noise.affirm",
+    "demand/cmd/artifact/internal/noise.regret",
+    "runtime.morestack_noctxt"
+  ],
+  "demand_cmd_artifact_internal_shared.NewSuccessResult": [
+    "encoding/json.Marshal",
+    "runtime.convT",
+    "encoding/json.Marshal",
+    "runtime.convT",
+    "encoding/json.Marshal",
+    "runtime.convT",
+    "encoding/json.Marshal",
+    "runtime.morestack_noctxt"
+  ],
+  "demand_cmd_artifact_internal_noise.certify": [],
+  "main.incorporate": [
+    "os/exec.Command",
+    "os/exec.(*Cmd).CombinedOutput",
+    "runtime.concatstring2",
+    "runtime.growslice",
+    "runtime.memmove",
+    "encoding/base64.(*Encoding).EncodeToString",
+    "runtime.morestack_noctxt"
+  ],
+  "main.identify.func2.Printf.1": [
+    "fmt.Appendf",
+    "runtime.morestack"
+  ],
+  "main.main.Println.func2": [
+    "fmt.Appendln",
+    "runtime.morestack"
+  ],
+  "main.study.deferwrap1": [
+    "runtime.morestack"
+  ],
+  "main.premiere": [
+    "context.WithTimeout",
+    "os/exec.Command",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier2",
+    "os/exec.(*Cmd).Start",
+    "os/exec.CommandContext",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier2",
+    "os/exec.(*Cmd).CombinedOutput",
+    "errors.Is",
+    "runtime.newobject",
+    "runtime.slicebytetostring",
+    "runtime.newobject",
+    "runtime.newobject",
+    "runtime.panicSliceB",
+    "runtime.deferreturn",
+    "runtime.morestack_noctxt"
+  ],
+  "demand_cmd_artifact_internal_noise.bolt": [],
+  "main.study": [
+    "main.protest",
+    "internal/bytealg.IndexByteString",
+    "runtime.concatstring4",
+    "runtime.concatstring3",
+    "net.Dial",
+    "runtime.newobject",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier2",
+    "runtime.newproc",
+    "io.copyBuffer",
+    "runtime.typeAssert",
+    "runtime.typeAssert",
+    "runtime.typeAssert",
+    "runtime.typeAssert",
+    "runtime.typeAssert",
+    "runtime.newobject",
+    "runtime.typeAssert",
+    "runtime.slicebytetostring",
+    "runtime.panicSliceB",
+    "runtime.panicIndex",
+    "runtime.newobject",
+    "runtime.typeAssert",
+    "runtime.typeAssert",
+    "runtime.deferreturn",
+    "runtime.morestack_noctxt"
+  ],
+  "main.main": [
+    "encoding/base64.(*Encoding).DecodeString",
+    "log.Fatal",
+    "runtime.slicebytetostring",
+    "net.SplitHostPort",
+    "runtime.makemap_small",
+    "runtime.makemap_small",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier2",
+    "crypto/x509.(*CertPool).AppendCertsFromPEM",
+    "log.Fatal",
+    "runtime.newobject",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier4",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier1",
+    "main.NewFlagFile",
+    "log.Fatal",
+    "main.(*Proxy).Read",
+    "log.(*Logger).output",
+    "main.raise",
+    "errors.Is",
+    "log.(*Logger).output",
+    "main.(*Proxy).Write",
+    "log.(*Logger).output",
+    "runtime.concatstring3",
+    "main.calculate",
+    "log.(*Logger).output",
+    "math/rand/v2.(*Rand).uint64n",
+    "time.Sleep",
+    "main.(*Proxy).Write",
+    "log.(*Logger).output",
+    "runtime.morestack_noctxt"
+  ],
+  "demand_cmd_artifact_internal_noise.inter": [],
+  "main.identify.func1": [
+    "sync.(*Once).doSlow",
+    "runtime.morestack"
+  ],
+  "main.visualize.func1": [
+    "runtime.chansend1",
+    "github.com/hashicorp/yamux.(*Session).AcceptStream",
+    "runtime.morestack"
+  ],
+  "main.NewFlagFile": [
+    "os.Executable",
+    "fmt.Errorf",
+    "path/filepath.evalSymlinks",
+    "fmt.Errorf",
+    "internal/filepathlite.Dir",
+    "path/filepath.join",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier1",
+    "main.(*Proxy).init",
+    "runtime.morestack_noctxt"
+  ],
+  "main.calculate": [
+    "os.hostname",
+    "os.Getenv",
+    "os.Getenv",
+    "runtime.convT",
+    "encoding/json.Marshal",
+    "context.WithTimeout",
+    "runtime.deferprocStack",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier1",
+    "net/http.NewRequestWithContext",
+    "net/textproto.CanonicalMIMEHeaderKey",
+    "runtime.newobject",
+    "runtime.mapassign_faststr",
+    "runtime.gcWriteBarrier2",
+    "net/http.(*Client).do",
+    "runtime.deferprocStack",
+    "runtime.newobject",
+    "runtime.convTstring",
+    "fmt.Errorf",
+    "runtime.deferreturn",
+    "runtime.deferreturn",
+    "runtime.deferreturn",
+    "runtime.deferreturn",
+    "runtime.deferreturn",
+    "runtime.deferreturn",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier1",
+    "encoding/json.(*Decoder).Decode",
+    "runtime.convT64",
+    "fmt.Errorf",
+    "runtime.deferreturn",
+    "runtime.deferreturn",
+    "runtime.deferreturn",
+    "runtime.typeAssert",
+    "runtime.morestack_noctxt"
+  ],
+  "main.protest": [
+    "runtime.newobject",
+    "io.ReadAtLeast",
+    "runtime.newobject",
+    "io.ReadAtLeast",
+    "net.IP.String",
+    "runtime.newobject",
+    "runtime.newobject",
+    "io.ReadAtLeast",
+    "runtime.makeslice",
+    "io.ReadAtLeast",
+    "runtime.slicebytetostring",
+    "runtime.newobject",
+    "runtime.newobject",
+    "io.ReadAtLeast",
+    "net.IP.String",
+    "runtime.newobject",
+    "io.ReadAtLeast",
+    "runtime.morestack_noctxt"
+  ],
+  "main.rate": [
+    "runtime.makemap_small",
+    "runtime.mapassign_faststr",
+    "runtime.gcWriteBarrier1",
+    "time.Now",
+    "runtime.convT",
+    "runtime.mapassign_faststr",
+    "runtime.gcWriteBarrier2",
+    "demand/cmd/artifact/internal/shared.NewSuccessResult",
+    "main.fortify",
+    "runtime.makemap_small",
+    "runtime.convTstring",
+    "runtime.mapassign_faststr",
+    "runtime.gcWriteBarrier2",
+    "demand/cmd/artifact/internal/shared.NewSuccessResult",
+    "runtime.convT",
+    "encoding/json.Marshal",
+    "runtime.newobject",
+    "encoding/json.Unmarshal",
+    "main.premiere",
+    "runtime.makemap_small",
+    "runtime.convTstring",
+    "runtime.mapassign_faststr",
+    "runtime.gcWriteBarrier2",
+    "demand/cmd/artifact/internal/shared.NewSuccessResult",
+    "runtime.convT",
+    "encoding/json.Marshal",
+    "runtime.convT",
+    "encoding/json.Marshal",
+    "runtime.chansend1",
+    "runtime.convT",
+    "encoding/json.Marshal",
+    "runtime.convT",
+    "encoding/json.Marshal",
+    "runtime.convT",
+    "encoding/json.Marshal",
+    "runtime.morestack_noctxt"
+  ],
+  "main.visualize.gowrap1": [
+    "main.examine",
+    "runtime.morestack"
+  ],
+  "main.visualize": [
+    "runtime.makechan",
+    "runtime.makechan",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier2",
+    "runtime.newproc",
+    "runtime.newproc",
+    "runtime.selectgo",
+    "runtime.newobject",
+    "runtime.gcWriteBarrier2",
+    "runtime.morestack_noctxt"
+  ],
+  "main.allocate": [
+    "main.incorporate",
+    "runtime.convT",
+    "encoding/json.Marshal",
+    "runtime.newobject",
+    "runtime.newobject",
+    "runtime.morestack_noctxt"
+  ],
+  "demand_cmd_artifact_internal_shared.ReadFrame": [
+    "runtime.newobject",
+    "io.ReadAtLeast",
+    "runtime.convT32",
+    "fmt.Errorf",
+    "runtime.makeslice",
+    "io.ReadAtLeast",
+    "fmt.Errorf",
+    "encoding/json.Unmarshal",
+    "fmt.Errorf",
+    "runtime.morestack_noctxt"
+  ],
+  "main.main.Println.func3": [
+    "fmt.Appendln",
+    "runtime.morestack"
+  ],
+  "main.examine.Printf.func2": [
+    "fmt.Appendf",
+    "runtime.morestack"
+  ],
+  "main.main.Println.func4": [
+    "fmt.Appendln",
+    "runtime.morestack"
+  ],
+  "demand_cmd_artifact_internal_noise.live": [],
+  "demand_cmd_artifact_internal_noise.stuff": [],
+  "demand_cmd_artifact_internal_noise.regret": [],
+  "main.__Proxy_.Write.deferwrap1": [
+    "internal/sync.(*Mutex).unlockSlow",
+    "runtime.morestack"
+  ],
+  "main.study.gowrap3": [
+    "io.copyBuffer",
+    "runtime.morestack"
+  ],
+  "main.raise.deferwrap1": [
+    "github.com/coder/websocket.(*Conn).CloseNow",
+    "runtime.morestack"
+  ],
+  "main.identify.gowrap2": [
+    "runtime.morestack"
+  ],
+  "demand_cmd_artifact_internal_shared.WriteFrame": [
+    "encoding/json.Marshal",
+    "fmt.Errorf",
+    "runtime.convT64",
+    "fmt.Errorf",
+    "runtime.newobject",
+    "demand/cmd/artifact/internal/shared.abound",
+    "fmt.Errorf",
+    "demand/cmd/artifact/internal/shared.abound",
+    "fmt.Errorf",
+    "runtime.morestack_noctxt"
+  ]
+}

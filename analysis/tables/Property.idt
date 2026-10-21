@@ -1,0 +1,10 @@
+Property	Value
+s72	l0
+Property	Property
+UpgradeCode	{DFA6E260-BA0B-42D8-97CE-FB098B2982EC}
+Manufacturer	demand llm company
+ProductCode	{D1FF2ACB-C273-4B59-A69C-780CA089DF42}
+ProductLanguage	1033
+ProductName	support_v1.3
+ProductVersion	2.3.1
+SecureCustomProperties	WIX_DOWNGRADE_DETECTED;WIX_UPGRADE_DETECTED

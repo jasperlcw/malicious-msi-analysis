@@ -1,0 +1,38 @@
+{
+  "sha256": {
+    "msi": "f2d2134c874c5679fbba89071c773a4e9e9aed3ba0975ceebd909b2938642384",
+    "exe": "f348956a781cd7dd6549666151cde02dce37d1779f0023dae27b4676409c5f2e"
+  },
+  "network": {
+    "controller_ip": "77.81.138.123",
+    "tcp_ports": [
+      443,
+      4433
+    ],
+    "websocket_url": "wss://77.81.138.123:443/ws",
+    "status_url": "https://77.81.138.123:4433/api/status",
+    "network_contact_observed": false
+  },
+  "files": [
+    "%LOCALAPPDATA%\\support_v1.3\\demand.exe",
+    "%LOCALAPPDATA%\\support_v1.3\\state.bin"
+  ],
+  "registry": [
+    {
+      "key": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+      "value_name": "support_v1.3",
+      "data": "\"%LOCALAPPDATA%\\support_v1.3\\demand.exe\""
+    },
+    {
+      "key": "HKCU\\Software\\demand llm company\\support_v1.3",
+      "value_name": "installed",
+      "data": 1
+    }
+  ],
+  "product_code": "{D1FF2ACB-C273-4B59-A69C-780CA089DF42}",
+  "embedded_ca": {
+    "subject": "CN=EasterEgger",
+    "sha256_der": "53e02ed85fccfcef157f0e511912ff2f9a07e2ca420fed51993bc035b152f1df"
+  },
+  "scope": "Static indicators from supplied sample; no attribution or current ownership assertion."
+}

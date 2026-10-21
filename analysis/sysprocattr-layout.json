@@ -1,0 +1,38 @@
+[
+  {
+    "field": "HideWindow",
+    "offset": 0
+  },
+  {
+    "field": "CmdLine",
+    "offset": 8
+  },
+  {
+    "field": "CreationFlags",
+    "offset": 24
+  },
+  {
+    "field": "Token",
+    "offset": 32
+  },
+  {
+    "field": "ProcessAttributes",
+    "offset": 40
+  },
+  {
+    "field": "ThreadAttributes",
+    "offset": 48
+  },
+  {
+    "field": "NoInheritHandles",
+    "offset": 56
+  },
+  {
+    "field": "AdditionalInheritedHandles",
+    "offset": 64
+  },
+  {
+    "field": "ParentProcess",
+    "offset": 88
+  }
+]

@@ -1,0 +1,7 @@
+subject=CN = EasterEgger
+issuer=CN = EasterEgger
+notBefore=Oct 15 09:00:59 2026 GMT
+notAfter=Oct 12 09:00:59 2036 GMT
+sha256 Fingerprint=53:E0:2E:D8:5F:CC:FC:EF:15:7F:0E:51:19:12:FF:2F:9A:07:E2:CA:42:0F:ED:51:99:3B:C0:35:B1:52:F1:DF
+X509v3 Subject Alternative Name: 
+    DNS:EasterEgger
