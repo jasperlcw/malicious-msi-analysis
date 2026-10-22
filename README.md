@@ -123,3 +123,7 @@ For an endpoint that executed the installer:
 The REA skill guided the workflow. REA MCP/CLI tools were unavailable, so the investigation used standalone MSI parsers, PE inspection, embedded Go metadata recovery, and static disassembly. No REA Evidence IDs were generated. Local reports identify supporting files and function addresses.
 
 The original sample was preserved. The extracted executable under `analysis/extracted/` remains malicious. MSI metadata, build strings, and certificate dates are unverified provenance; none authenticates the claimed publisher.
+
+## Removable-storage follow-up
+
+No automatic USB/removable-drive replication was identified in the reviewed MSI or executable. Remote commands could still write to accessible removable media; actual device contents and endpoint activity were not examined. See the [focused removable-storage review](analysis/removable-storage-review.md).
